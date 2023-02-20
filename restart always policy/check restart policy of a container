@@ -1,0 +1,1 @@
+sudo docker inspect --format '{{.HostConfig.RestartPolicy.Name}}' <container-id>
