@@ -2,3 +2,7 @@ sudo docker rm
 removes containers by their name or ID 
 
 you first need to stop the docker image
+
+to uninstall a docker image:
+
+sudo docker rmi my_image_id

@@ -1,0 +1,3 @@
+sudo docker restart mycontainer
+
+where mycontainer is the container name 
